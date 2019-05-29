@@ -1,0 +1,69 @@
+access issue	Please provide a phone number I can contact you on.
+address	"Court Residence Nakano, 5-47-8 Chuo, Nakano-ku, Tokyo"
+airbnb policy japan	I apologize for the confusion as the regulations for airbnb in Japan are difficult right now.
+ammenities	Yes these are available for you to use!
+appliances	Please check the booklet for further information on appliances in the room.
+beds	We have twin beds that is suitable for one person each for this room.
+building directions	"Once you arrive at Nakano Station, please leave the station using the South Exit 
+The easiest way to locate our apartment is to type ""Court Residence Nakano"" on Google Maps. "
+cancellation	"Please submit a cancellation request, and I can approve it from my end."
+car parking	There is no parking on the premisis
+check in process	"Your room number is: 101
+To enter the building, please use the top keypad, as pictured, and push the following 5 buttons: 1,2,3,4,*
+To enter room 101, as pictured below:
+-Pictures for Check-In: https://photos.app.goo.gl/somephotos
+1) Kindly press down firmly on the keypad and wait as it turns on. 
+2) Push the two random numbers that appear on the keypad. 
+3) Enter the ROOM CODE: 9,8,7,6*"
+check out process	You can just leave the place with all your belongings! Have a safe trip.
+chinese	We only speak English
+cleaning issue	I apologize. I will get the cleaners to come asap.
+confirmation request	"Yes, as per the confirmation email sent previously."
+contact details	Please contact me through messages on airbnb
+data allowance	There is a datacap of 2GB
+early check in	"The cleaners will be cleaning between 12pm and 3pm. You can leave your bags earlier if you would like, but please note they may be not finished with cleanining yet."
+early luggage storage	"The cleaners will be cleaning between 12pm and 3pm. You can leave your bags earlier if you would like, but please note they may be not finished with cleanining yet."
+electrical issue	Let me look into that asap.
+elevator	There is an elevator
+floor	"It is on the first floor, above the ground floor."
+follow up	Let me get back to you shortly.
+food recommendations	Please check the bookelt for further information on food recommendations! There's a ramen place that's great nearby!
+garbage	"For rubbish, please separate it and use the Rubbish Room (door to the right of the entrance of Court Residence Nakano). Alternatively, please message me and I'll have the cleaner pick it up from your room. "
+how are you?	Doing great thanks! Hope you enjoy your stay soon!
+late check in	Sure that'd be no problem. Please follow the same instructions for entry.
+late check out	Please make sure to leave the premisis by 11:30am as the cleaners will be arriving then.
+late luggage storage	Please make sure to leave the premisis by 11:30am as the cleaners will be arriving then and the new guests will be checking in shortly after. It might be best to leave your luggage in storage at a major station while you explore the city.
+local facilities	Please check the bookelt for further information on local facilities.
+lock battery	Thank you for letting me know. I will have the cleaners replace the battery.
+lock door	The door will lock automatically after a short time.
+lost items	Let me contact the cleaners and check for you.
+luggage storage	"If it is for a day, there are many luggage storage lockers at major train stations including Shinjuku."
+meet	Unfortunately I won't be around while you are there. I hope you enjoy the stay!
+more details	Let me send you the details shortly
+negotiation	Let me see if that's possible and get back to you.
+netflix	"Please use the netflix logins details: thisisnotreal@gmail.com, password: password123. Alternatively you can login to your own account as well, but please make sure to logout."
+other accomodation	There are a few hotels and airbnb nearby that I can recommend.
+other rooms	Let me check if we have other rooms available.
+others	Let me see if that's possible and get back to you.
+payment	Please contact airbnb for any payment issues. 
+portable wifi	"Yes, the instructions for the portable wifi will be in a booklet inside the room"
+power adapter	There are no power adapters in the room.
+refund	Sure thing. Please submit a request and I can approve the request.
+replacement	Please send back to this address.
+reservation adjustments	Let me see if that's possible and get back to you.
+reservation request	Let me see if that's possible and get back to you.
+room availability	Let me see if that's possible and get back to you.
+room inquiry	Let me see if that's possible and get back to you.
+sightseeing	That sounds great! LMGTFY
+special request	I am unable to grant your request. I hope you can understand.
+tickets	I am unable to get the tickets for you. I hope you can understand.
+towels	Sure let me provide a few more towels for you.
+transformer	"There are no transformers provided, so please check that your electronics are able to take 110V."
+transport directions	"From Haneda Airport, take the Keikyu Line to Nihonbashi Station. Switch to the Tozai Line and head to Nakano Station.
+From Narita Airport, take the Narita Express to Tokyo Station. Switch to the JR Chuo Line and head to Nakano Station."
+transport others	LMGTFY (Let me google that for you)
+tv	Yes there's a tv in the bedroom!
+washing machine	The instructions for the washing machien will be in the booklet.
+water	Yes you can safely drink the tap water in Japan.
+weather	It's getting quite warm these days over here!
+wifi	Please try the login details as in the booklet in the room. You can also try restarting the router located next to the TV.
